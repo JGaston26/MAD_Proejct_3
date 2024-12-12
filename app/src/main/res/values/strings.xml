@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAD_Project3</string>
+    <string name="firstTitle">Welcome to the first game! NYT Connections!</string>
+    <string name="secondTitle">Welcome to the second game! Squirdle(Pokemon Wordle)</string>
+    <string name="thirdTitle">Welcome to the last fragment! Its your favorite website!</string>
+    <string name="buttonText">Move to the next Fragment</string>
+    <string name="description">"You might be wondering, what did Justin and his friends do during AP CSA last year to goof off, pass the time, and get Mr Miller mad at us?(Hint, hint, it wasn't our work)Well you are in luck, because with this wonderful app you'll learn about what we did! But before you go enter in your favorite website!"</string>
+
+</resources>
